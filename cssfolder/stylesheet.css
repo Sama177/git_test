@@ -2,3 +2,13 @@ body {
     background-color: #ff9900;
     color:aliceblue; font-size: larger;
 }
+
+p{
+    color: blue;
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 70px;
+    color: pink;
+}
