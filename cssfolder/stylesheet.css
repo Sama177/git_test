@@ -1,14 +1,87 @@
 body {
-    background-color: #ff9900;
-    color:aliceblue; font-size: larger;
-}
-
-p{
-    color: blue;
     font-size: 40px;
+    color: aqua;
+    background-color: #ff9900;
+    
 }
 
 h1 {
-    font-size: 70px;
+    font-size: 40px;
     color: pink;
 }
+strong {
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+
+}
+
+.parrafo1 {
+    color: blue;
+    font-size: 70px; 
+    width: auto;   
+
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.Redhighlight {
+    color: red;
+
+}
+ol {
+    color: aqua;
+    font-size: large;
+}
+
+.box {
+    background: rgb(4, 253, 79);
+    width: 300px;
+    color: #ff9900;
+
+    margin: 100px;
+    border-width: 5px;
+    border: 10px solid purple;
+    padding: 100px 25px;
+}
+
+.division-examples {
+    color: rgb(113, 12, 214);
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.numero1 {
+    color: orange;
+    font-size: x-large;
+    width: auto;
+    background-color: black;
+}
+
+.numero3 { 
+    color: orange; 
+    font-size: larger;
+    background-color: pink;
+    width: 1200px;
+
+   margin: 50px;
+    border: 10px solid red;
+    padding: 100px 25px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+
+}
+
+/*this is a CSS commment*/
+
+/*
+Margin empty pace around my element
+Border a border / stroke/ around my element
+Padding empty space with background around my element
+
+all of these add on top of the width and height. 
+*/
